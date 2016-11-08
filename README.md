@@ -1,0 +1,2 @@
+# Database-Project-
+This project indicates the work done by a College Supervisor for example making a note of student details, faculty details and other department details which helps in keeping the database safe. The project is about NEW MARVEL COLLEGE. This college requires a database system to store information regarding students, faculty, courses, departments etc.The report contains Database design methodology and the data structure diagram with SQL implementation
